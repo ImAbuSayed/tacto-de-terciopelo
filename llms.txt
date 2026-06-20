@@ -1,4 +1,4 @@
-# Tacto de terciopelo
+# Tacto de terciopelo, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Tacto de terciopelo |
+| **Title** | Tacto de terciopelo, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tacto-de-terciopelo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tacto de terciopelo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tacto-de-terciopelo/) |
+| **Get License** | [Commercial Licensing for Tacto de terciopelo, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tacto-de-terciopelo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche se hizo pa' perder el control
+> Tu cuerpo es la droga que a mí me acelera el motor
+> Con ese piquete, princesa, no hay nadie igual
+> Tu tacto de terciopelo es mi vicio fatal
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `101b593433a69f4e87d3c03c0881df71ddf444bf73742750f2f4fac6e868931c` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

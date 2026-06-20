@@ -1,6 +1,6 @@
 # License
 
-**Tacto de terciopelo**
+**Tacto de terciopelo, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
